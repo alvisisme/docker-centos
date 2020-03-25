@@ -1,6 +1,6 @@
 # docker-centos
 
-![Travis (.com) branch](https://img.shields.io/travis/com/alvisisime/docker-cetnos/master)
+![Travis (.com) branch](https://img.shields.io/travis/com/alvisisime/docker-centos/master)
 ![https://cloud.docker.com/repository/docker/alvisisme/centos](https://img.shields.io/docker/pulls/alvisisme/centos.svg)
 
 内置中国源的Centos Docker基础镜像。
